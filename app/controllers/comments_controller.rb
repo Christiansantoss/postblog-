@@ -6,7 +6,7 @@ def create
 redirect_to post_path(@post)
 end
 
-def destroy 
+def destroy
 end 
 
 
