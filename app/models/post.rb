@@ -1,3 +1,3 @@
 class Post < ApplicationRecord
-    has many :comments
+    has_many :comments
 end
