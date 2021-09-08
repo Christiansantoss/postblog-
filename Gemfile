@@ -37,7 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 # Make errors better looking 
-gem 'better_errors', '~> 2.5', '>= 2.5.1'
+gem 'better_errors', '~> 2.8'
 
 # Forms made easy! 
 gem 'simple_form', '~> 4.1'
@@ -65,7 +65,7 @@ group :development do
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false 
 
   # Make errors better looking 
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
 end
 
 group :test do
